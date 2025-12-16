@@ -4,3 +4,5 @@ i live in Israel
 News repository
 
 aujourd'hui j'apprend les tags et les modification 
+maintenant que le tag v0.0.1 est fonctionnele 
+nous passons a la version deux 
